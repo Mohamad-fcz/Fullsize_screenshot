@@ -1,6 +1,8 @@
 
-![Erfan FCZ](https://user-images.githubusercontent.com/99288525/211031801-b21a87b6-8506-4629-a1e8-51d44a4f508e.gif)
 
+<p align="center"><img  src="https://user-images.githubusercontent.com/99288525/211031801-b21a87b6-8506-4629-a1e8-51d44a4f508e.gif"   width="200" height="200">
+<img src="https://www.perfecto.io/sites/perfecto.io/files/image/2020-05/social-blog-what-to-expect-with-selenium.jpg"  width="200" height="200">
+<p align="center"><img  src="https://docs.servicestack.net/assets/jupyter-python.6188762b.png"   width="400" height="100">
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mohamad-fcz/fullsize_screenshot?label=Version&logo=GitHub&style=plastic)
 ![GitHub](https://img.shields.io/github/license/mohamad-fcz/fullsize_screenshot?color=yellow&logo=Osano&logoColor=yellow)
@@ -12,7 +14,8 @@ This software makes use of a straightforward method for automating the process o
 
 This application makes use of the most well-known web scraping tools, such as Selenium and chrome web driver, in order to capture full-size screenshots of web pages for the purpose of tracking and analyzing changes. One of the many applications that can be linked to deep learning and used to fit a model with the help of a sequence of screen shots includes, for instance, the movement of hurricanes and the results of sensor readings.
 
-![Screenshot_20230101_091004](https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/styles/featured_media_detail/public/news/featured_media/EgZ8gkVUMAcSR-g.png?dpwhumNyJzU1pvOs721UvI8evhsQu7zz&itok=yml6jj3c)
+
+<p align="center"><img  src="https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/styles/featured_media_detail/public/news/featured_media/EgZ8gkVUMAcSR-g.png?dpwhumNyJzU1pvOs721UvI8evhsQu7zz&itok=yml6jj3c">
 
 ## Features
 
