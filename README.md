@@ -78,7 +78,7 @@ In the following, we have provided two different examples of web page URLs and l
 
 ![Screenshot_20230101_091004](https://user-images.githubusercontent.com/99288525/211022334-0f009ed1-c098-4916-acd8-c6a41d3290de.png)
 
-After you have finished making configurations, you can begin the automation process by clicking the Done button and then running the last cellto begin the automation.
+After you have finished making configurations, you can begin the automation process by clicking the Done button and then running the last cell to begin the automation.
 ## Author
 
 - [![portfolio](https://img.shields.io/badge/Mohamad%20Ahmadzadeh-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamad-fcz)
