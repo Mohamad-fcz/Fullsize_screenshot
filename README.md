@@ -12,12 +12,13 @@
 
 # Full size web page screenshot automation using Selenium
 
-This software makes use of a straightforward method for automating the process of taking periodic full-page screenshots from HTML files stored on your local hard drive or web pages retrieved from the internet.
+This program makes use of a straightforward method for automating the process of taking periodic full-page screenshots from HTML files stored on your local hard drive or web pages retrieved from the internet.
 
 This application makes use of the most well-known web scraping tools, such as Selenium and chrome web driver, in order to capture full-size screenshots of web pages for the purpose of tracking and analyzing changes. One of the many applications that can be linked to deep learning and used to fit a model with the help of a sequence of screen shots includes, for instance, the movement of hurricanes and the results of sensor readings.
 
 
-<p align="center"><img  src="https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/styles/featured_media_detail/public/news/featured_media/EgZ8gkVUMAcSR-g.png?dpwhumNyJzU1pvOs721UvI8evhsQu7zz&itok=yml6jj3c">
+<p align="center"><img alt="Storm heat" src="https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/styles/featured_media_detail/public/news/featured_media/EgZ8gkVUMAcSR-g.png?dpwhumNyJzU1pvOs721UvI8evhsQu7zz&itok=yml6jj3c">
+<p align="center"><img alt="FIRST_COH_0124_event" src="https://user-images.githubusercontent.com/99288525/216170093-5fee1bfa-9111-4536-9279-fdbbf0e6cab5.gif">
 
 ## Features
 
