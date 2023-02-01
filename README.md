@@ -1,12 +1,14 @@
 
 
-<p align="center"><img  src="https://user-images.githubusercontent.com/99288525/216159152-9a7a2dce-3312-4d64-bdf2-b7315d388ada.gif"   width="200" height="200">
+<p align="center"><img  src="https://user-images.githubusercontent.com/99288525/216159152-9a7a2dce-3312-4d64-bdf2-b7315d388ada.gif"   width="200" height="200">&nbsp;&nbsp;
 <img src="https://www.perfecto.io/sites/perfecto.io/files/image/2020-05/social-blog-what-to-expect-with-selenium.jpg"  width="200" height="200">
 <p align="center"><img  src="https://docs.servicestack.net/assets/jupyter-python.6188762b.png"   width="400" height="100">
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/mohamad-fcz/fullsize_screenshot?label=Version&logo=GitHub&style=plastic)
-![GitHub](https://img.shields.io/github/license/mohamad-fcz/fullsize_screenshot?color=yellow&logo=Osano&logoColor=yellow)
-![GitHub top language](https://img.shields.io/github/languages/top/mohamad-fcz/fullsize_screenshot?color=orange&logo=jupyter&logoColor=orange)
+
+<p align="center"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Mohamad-fcz/Fullsize_screenshot?label=Version&logo=GitHub&style=plastic">&nbsp;&nbsp;&nbsp;
+<img alt="GitHub" src="https://img.shields.io/github/license/mohamad-fcz/fullsize_screenshot?color=yellow&logo=Osano&logoColor=yellow">&nbsp;&nbsp;&nbsp;
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mohamad-fcz/fullsize_screenshot?color=orange&logo=jupyter&logoColor=orange">
+
 
 # Full size web page screenshot automation using Selenium
 
@@ -40,7 +42,7 @@ Using Anaconda Prompt:
   conda install -c conda-forge jupyter
 ```
 #### or
-- installing the most recent version of Jupyter notebook and activating Ipywidgets.
+- installing the most recent version of Jupyter notebook and activating Ipywidgets manually in case you are short on space or for any reason do not intend to install full Jupyter meta package from above method.
 
 ```bash
   conda install -c conda-forge notebook
