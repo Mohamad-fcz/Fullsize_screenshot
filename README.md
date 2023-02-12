@@ -4,8 +4,8 @@
 <img src="https://www.perfecto.io/sites/perfecto.io/files/image/2020-05/social-blog-what-to-expect-with-selenium.jpg"  width="200" height="200">
 <p align="center"><img  src="https://docs.servicestack.net/assets/jupyter-python.6188762b.png"   width="400" height="100">
 
-
-<p align="center"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Mohamad-fcz/Fullsize_screenshot?label=Version&logo=GitHub&style=plastic">&nbsp;&nbsp;&nbsp;
+                   
+<p align="center"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Mohamad-fcz/Fullsize_screenshot?label=Version&logo=github&style=plastic">&nbsp;&nbsp;&nbsp;
 <img alt="GitHub" src="https://img.shields.io/github/license/mohamad-fcz/fullsize_screenshot?color=yellow&logo=Osano&logoColor=yellow">&nbsp;&nbsp;&nbsp;
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mohamad-fcz/fullsize_screenshot?color=orange&logo=jupyter&logoColor=orange">
 
