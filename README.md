@@ -9,7 +9,7 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mohamad-fcz/fullsize_screenshot?color=orange&logo=jupyter&logoColor=orange">
 
 
-# Full size web page screenshot automation using Selenium
+# [Full size web page screenshot automation using Selenium](https://github.com/Mohamad-fcz/Fullsize_screenshot)
 
 This program makes use of a straightforward method for automating the process of taking periodic full-page screenshots from HTML files stored on your local hard drive or web pages retrieved from the internet.
 
