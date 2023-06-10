@@ -1,5 +1,7 @@
 
-<head> <meta name="google-site-verification" content="VD_VjzKvMtJTIwSgrhayC3WQwnrqMiST1H94ZsdmEJQ" /> <head>
+<head> 
+  <meta name="google-site-verification" content="VD_VjzKvMtJTIwSgrhayC3WQwnrqMiST1H94ZsdmEJQ" /> 
+</head>
 <p align="center"><img  src="https://user-images.githubusercontent.com/99288525/216159152-9a7a2dce-3312-4d64-bdf2-b7315d388ada.gif"   width="200" height="200">&nbsp;&nbsp;
 <img src="https://www.perfecto.io/sites/perfecto.io/files/image/2020-05/social-blog-what-to-expect-with-selenium.jpg"  width="200" height="200">
 <p align="center"><img  src="https://docs.servicestack.net/assets/jupyter-python.6188762b.png"   width="400" height="100">
