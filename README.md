@@ -1,5 +1,4 @@
 
-<head> <meta name="google-site-verification" content="VD_VjzKvMtJTIwSgrhayC3WQwnrqMiST1H94ZsdmEJQ" /> <head>
 <p align="center"><img  src="https://user-images.githubusercontent.com/99288525/216159152-9a7a2dce-3312-4d64-bdf2-b7315d388ada.gif"   width="200" height="200">&nbsp;&nbsp;
 <img src="https://www.perfecto.io/sites/perfecto.io/files/image/2020-05/social-blog-what-to-expect-with-selenium.jpg"  width="200" height="200">
 <p align="center"><img  src="https://docs.servicestack.net/assets/jupyter-python.6188762b.png"   width="400" height="100">
@@ -10,7 +9,7 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mohamad-fcz/fullsize_screenshot?color=orange&logo=jupyter&logoColor=orange">
 
 
-# Full size web page screenshot automation using Selenium
+# [Full size web page screenshot automation using Selenium](https://github.com/Mohamad-fcz/Fullsize_screenshot)
 
 This program makes use of a straightforward method for automating the process of taking periodic full-page screenshots from HTML files stored on your local hard drive or web pages retrieved from the internet.
 
