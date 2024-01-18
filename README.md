@@ -1,7 +1,7 @@
 
 <p align="center"><img  src="https://user-images.githubusercontent.com/99288525/216159152-9a7a2dce-3312-4d64-bdf2-b7315d388ada.gif"   width="200" height="200">&nbsp;&nbsp;
 <img src="https://www.perfecto.io/sites/perfecto.io/files/image/2020-05/social-blog-what-to-expect-with-selenium.jpg"  width="200" height="200">
-<p align="center"><img  src="https://docs.servicestack.net/assets/jupyter-python.6188762b.png"   width="400" height="100">
+<p align="center"><img  src="https://github.com/conda/conda/assets/99288525/5931ed49-be28-400e-b80e-13d5c26e8266"   width="300" height="150">
 
                    
 <p align="center"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Mohamad-fcz/Fullsize_screenshot?label=Version&logo=github&style=plastic">&nbsp;&nbsp;&nbsp;
