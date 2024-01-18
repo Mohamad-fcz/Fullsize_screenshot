@@ -7,6 +7,14 @@
 <p align="center"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Mohamad-fcz/Fullsize_screenshot?label=Version&logo=github&style=plastic">&nbsp;&nbsp;&nbsp;
 <img alt="GitHub" src="https://img.shields.io/github/license/mohamad-fcz/fullsize_screenshot?color=yellow&logo=Osano&logoColor=yellow">&nbsp;&nbsp;&nbsp;
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mohamad-fcz/fullsize_screenshot?color=orange&logo=jupyter&logoColor=orange">
+<img alt="GitHub top language" src="https://img.shields.io/github/issues/Mohamad-fcz/Fullsize_screenshot.svg">
+<img alt="GitHub top language" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+
+
+<img alt="GitHub top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-fcz&theme=blue-green">
+
+
+
 
 
 # [Full size web page screenshot automation using Selenium](https://github.com/Mohamad-fcz/Fullsize_screenshot)
@@ -85,7 +93,7 @@ After you have finished making configurations, you can begin the automation proc
 
 - [![portfolio](https://img.shields.io/badge/Mohamad%20Ahmadzadeh-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamad-fcz)
 
-
+<img alt="GitHub top language" src="https://github-readme-stats.vercel.app/api?username=Mohamad-fcz&theme=blue-green">
 
 ## 🔗 Contacting us
 [![portfolio](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/erfan_fcz)
